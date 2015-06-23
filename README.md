@@ -45,4 +45,5 @@ Write a program to simulate an election. Create a class called **VotingSimulator
 5. Follow the instructions on the console. After each round of polling you will be asked(within the console) whether you want to continue or not.
 6. Ask the ElectionManager to ***displayResults***
 
-These are my changes that I saving 
+These are my changes that I saving... This time
+
